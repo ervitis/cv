@@ -21,7 +21,7 @@ From December 2023 I began building a personal project using Google Cloud Run us
 | Specialities          | Technologies                                                                                                     |
 |-----------------------|------------------------------------------------------------------------------------------------------------------|
 | Cloud computing       | AWS, Google Cloud                                                                                                |
-| DevOps                | CircleCI, Travis, ansible, packer and terraform, Gitlab-CI, GitHub, Docker, Kubernetes and Openshift environment |
+| DevOps                | CircleCI, Travis, ansible, packer and terraform, Gitlab-CI, GitHub, Docker, Kubernetes and Openshift environment, Observability |
 | Databases             | MySQL, PostgreSQL, MongoDB, Redis                                                                                |
 | BigData               | Hadoop, Cloudera environment, Spark                                                                              |
 | Programming Languages | Python, GoLang, NodeJS and Java                                                                                  |
@@ -44,7 +44,7 @@ While I was on remote I was working with a team of 4 people: 1 designeer, 1 back
 After I came to Japan with a working visa. I worked with a team of 5 people: 1 desginer, 1 frontend, 1 backend and 1 fullstack. My team's duties where the engagement giving a score to employees.
 My role here is mainly software engineering: developing new features like personal score page, new customizable role features, but also mentoring new members and DevOps.
 
-Then I became a platform engineer, my role was to improve the infrastructure and the CI/CD pipelines. I improved the infrastructure and migration from Kubernetes solution to Google Cloud Run involving developers. Also improved SDLC solutions.
+Then I became a platform engineer, my role was to improve the infrastructure and the CI/CD pipelines. I improved the infrastructure and migration from Kubernetes solution to Google Cloud Run involving developers. Also improved SDLC solutions and observability with OpenTelemetry.
 
 ### TOQIO
 
